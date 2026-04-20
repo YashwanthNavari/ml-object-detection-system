@@ -1,0 +1,9 @@
+venv/
+__pycache__/
+*.pt
+runs/
+data/
+datasets/
+coco128.yaml
+*.yaml
+!dataset.yaml
